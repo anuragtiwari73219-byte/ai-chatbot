@@ -1,0 +1,20 @@
+{
+  "name": "restro-frist-agent",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@langchain/community": "^1.1.24",
+    "@langchain/core": "^1.1.33",
+    "@langchain/google-genai": "^2.1.26",
+    "express": "^4.22.1",
+    "langchain": "^1.2.34"
+  },
+  "keywords": []
+}
